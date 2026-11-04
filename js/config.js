@@ -82,13 +82,14 @@ const CONFIG_SKILLS = {
         {
             icon: "fa-solid fa-wrench",
             title: "Tools & Others",
-            tags: ["VS Code", "Canva", "Figma"],
+            tags: ["VS Code", "Canva", "Figma", "FontLab8"],
         },
     ],
 
     bars: [
-        { name: "UI / UX Design", pct: 90 },
+        { name: "UI Design", pct: 85 },
         { name: "Frontend Development", pct: 80 },
+        { name: "MySQL", pct: 75 },
     ],
 };
 
