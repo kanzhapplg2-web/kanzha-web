@@ -44,8 +44,7 @@ const CONFIG_PROFILE = {
    ---------------------------------------------------------------- */
 const CONFIG_STATS = [
     { number: 4, label: "Proyek" },
-    { number: 0, label: "Tahun pengalaman" },
-    { number: 0, label: "Klien" },
+    { number: 1, label: "Tahun Belajar" },
 ];
 
 
